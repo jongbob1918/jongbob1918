@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4F6D7A,100:92A9BD&height=250&section=header&text=Hello%20World!&fontSize=70&fontColor=F0F4F8&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60&descAlign=50&descSize=20"/>
+ <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=005B9A&text=Welcome%20to%20My%20GitHub&height=160&fontSize=65&desc=Building%20with%20Purpose%20%7C%20Driven%20by%20Code&descAlignY=75&descAlign=60" />
 </p>
 
 <p align="center">
