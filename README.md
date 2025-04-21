@@ -28,10 +28,8 @@
 
 ### 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-4F6D7A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-92A9BD?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4F6D7A?style=for-the-badge&logo=python&logoColor=yellow)
-![Docker](https://img.shields.io/badge/Docker-92A9BD?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
