@@ -32,7 +32,3 @@
 ![Python](https://img.shields.io/badge/Python-4F6D7A?style=for-the-badge&logo=python&logoColor=yellow)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:92A9BD,100:4F6D7A&height=150&section=footer"/>
-</p>
