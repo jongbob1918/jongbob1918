@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=052b3d&height=180&text=Dream%20big.%20Only%20big%20dreams%20can%20move%20the%20soul.&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=052b3d&height=240&text=Dream%20big.%20Only%20big%20dreams%20can%20move%20the%20soul.&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
