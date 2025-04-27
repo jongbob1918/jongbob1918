@@ -1,12 +1,12 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=052b3d&height=240&text=Dream%20big.%20Only%20big%20dreams%20can%20move%20the%20soul.&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=240&text=If%20it’s%20impossible,%20it’s%20interesting.&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -18,15 +18,15 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:jongbob1918@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jongbob1918@gmail.com"> </a>
-         <a href=https://www.notion.so/1b953cda229980dca4c1f0a1c0ecda20?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/1b953cda229980dca4c1f0a1c0ecda20?pvs=4"> </a>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:jongbob1918@gma> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jongbob1918@gma"> </a>
+         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jongbob1918&bg_color=180,0b2a4b,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongbob1918&layout=compact&bg_color=180,0b2a4b,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jongbob1918&bg_color=60,b85151,700554&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongbob1918&layout=compact&bg_color=60,b85151,700554&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
