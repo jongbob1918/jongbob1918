@@ -1,6 +1,6 @@
 <!-- 프로필 헤더 -->
 <p align="center" style="font-weight:700; font-size:15px; color:#c9d1d9;">
-  Hi there 👋&nbsp; I’m a former Air&nbsp;Force Radar &amp; Electronic&nbsp;Systems Technician turned aspiring&nbsp;Robotics&nbsp;Software&nbsp;Engineer.<br/>
+  Hi 👋&nbsp; I’m a former Air&nbsp;Force Radar &amp; Electronic&nbsp;Systems Technician turned aspiring&nbsp;Robotics&nbsp;Software&nbsp;Engineer.<br/>
   🛠️ Currently learning Python, C++, ROS, and machine/deep learning, driven by a passion for robotics and autonomous systems.
 </p>
 
