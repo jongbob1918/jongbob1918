@@ -1,9 +1,7 @@
 ### About Me
 
 <p align="" style="font-weight:700; font-size:15px; color:#c9d1d9;">
-  
-  Majored in Aircraft Mechanical Engineering at Inha Technical College.<br/>
-  Former Air Force Radar & Electronic Systems Technician with 5 years of experience.<br/>
+  Former Air Force Radar & Electronic Systems Technician with 5 years of experience.<br/>
   
   My ambition is to do work that excites me every morning.<br/>
   
