@@ -1,11 +1,10 @@
 ### About Me
-
-<p align="" style="font-weight:700; font-size:15px; color:#c9d1d9;">
-  Former Air Force Radar & Electronic Systems Technician with 5 years of experience.<br/>
-  
-  My ambition is to do work that excites me every morning.<br/>
-  
-  My ultimate goal is to create a flying robotic hand—a manipulator fully mobile in 3D space within the next decade. 🚀
+<p align="" style="font-weight:700; font-size:15px; color:#c9d1d9;"><br/>
+  Former Air Force Radar & Electronic Systems Technician with 5 years of experience.<br/>
+  
+  My ambition is to do work that excites me every morning.<br/>
+  
+  My ultimate goal is to create a flying robotic hand—a manipulator fully mobile in 3D space within the next decade. 🚀
 </p>
 
 ---
