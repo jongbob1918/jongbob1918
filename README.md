@@ -4,7 +4,6 @@
   
   My ambition is to do work that excites me every morning.<br/>
   
-  My ultimate goal is to create a flying robotic hand—a manipulator fully mobile in 3D space within the next decade. 🚀
 </p>
 
 ---
