@@ -1,4 +1,5 @@
 ### About Me
+Hi 👋
 **Developing software for autonomous robots using ROS.** Currently focused on **Reinforcement Learning (RL)** and **Vision-Language-Action (VLA)** research.
 
 ---
