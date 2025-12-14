@@ -1,27 +1,27 @@
 ### About Me
-<p align="" style="font-weight:700; font-size:15px; color:#c9d1d9;"><br/>
-  Former Air Force Radar & Electronic Systems Technician with 5 years of experience.<br/>
-  
-  My ambition is to do work that excites me every morning.<br/>
-  
-</p>
+**Developing software for autonomous robots using ROS.** Currently focused on **Reinforcement Learning (RL)** and **Vision-Language-Action (VLA)** research.
 
 ---
-### Tech Stacks
 
+###  Tech Stacks
 
 | Category | Skills |
 | :--- | :--- |
-| **Robotics** | <img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS1"> <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS2"> <img src="https://img.shields.io/badge/Nav2-334155?style=for-the-badge" alt="Nav2"> |
-| **AI / ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/YOLO-4B0082?style=for-the-badge&logoColor=white" alt="YOLO"> <img src="https://img.shields.io/badge/Pose Estimation-208888?style=for-the-badge" alt="Pose Estimation"> |
-| **Software Dev** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"> |
-| **Platforms & Tools**| <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"> |
-
+| **Robotics Core** | <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/Nav2-334155?style=for-the-badge&logo=ros&logoColor=white"> |
+| **AI & Vision** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"> <img src="https://img.shields.io/badge/Pose Estimation-208888?style=for-the-badge"> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> |
+| **DevOps & Env**| <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> |
+| **Backend & Data** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> |
+| **Collaboration** | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> |
 
 ---
 
-### Find me on
+### Contact
 <p>
-  📧 Email: <a href="mailto:jongbob1918@gmail.com">jongbob1918@gmail.com</a><br/>
-  ▶️ YouTube: <a href="https://www.youtube.com/channel/UCVbvniwYb2V2equijzjjt0Q">Channel Link</a>
+  <a href="mailto:jongbob1918@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.youtube.com/channel/UCVbvniwYb2V2equijzjjt0Q">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </p>
