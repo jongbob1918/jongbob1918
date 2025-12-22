@@ -6,6 +6,9 @@ Hi 👋
 
 ## My Portfolio
 <https://jongbob1918.github.io/my-portfolio/>
+**PPT Style**
+<https://jongbob1918.github.io/my-portfolio-ppt/>
+
 
 ###  Tech Stacks
 
