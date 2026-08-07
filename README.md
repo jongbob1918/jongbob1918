@@ -1,3 +1,3 @@
-# Hi there 👋 I'm Jongmyung Kim
+### Hi there 👋 I'm Jongmyung Kim
 
 Robotics Software Engineer
