@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="32" viewBox="0 0 64 32" role="img" aria-label="Blog">
-<title>Blog</title>
-<rect width="64" height="32" rx="3" fill="#222222"/>
-<text x="32" y="21" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="600">Blog</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="20" role="img" aria-label="Blog"><title>Blog</title><g shape-rendering="crispEdges"><rect width="0" height="20" fill="#333333"/><rect x="0" width="35" height="20" fill="#333333"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="175" y="140" textLength="250" transform="scale(.1)">Blog</text></g></svg>
